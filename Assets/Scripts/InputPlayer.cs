@@ -9,6 +9,7 @@ public class InputPlayer : MonoBehaviour
     private InputAction Jump;
     private InputAction Sprint;
     private InputAction Move;
+    private Rigidbody rigidbody;
 
     void Awake()
     {
@@ -17,11 +18,12 @@ public class InputPlayer : MonoBehaviour
         Sprint = IAM.FindAction("Sprint");
         Move = IAM.FindAction("Move");
 
+
     }
 
     void Start()
     {
-        
+        rigidbody = GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
@@ -33,7 +35,7 @@ public class InputPlayer : MonoBehaviour
         }
         else if (Jump.IsPressed())
         {
-            //
+            rigidbody.AddForce(Vector3.up * 10);
         }
         else if (Jump.WasReleasedThisFrame())
         {
