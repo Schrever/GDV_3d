@@ -7,3 +7,9 @@ hier heb ik een screenshot van mijn 3d environment gemaakt in Universal Render P
 
 ![screenshot](./screenshots/3d_environment_skybox.png)
 
+## Opdracht 2 Movement Inputs
+
+gif
+
+![gif](./screenshots/ezgif-503bda499958c308.gif)
+
