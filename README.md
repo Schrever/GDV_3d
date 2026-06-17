@@ -13,8 +13,8 @@ Input en movement van cubes
 
 ![gif](./screenshots/ezgif-503bda499958c308.gif)
 
-## Opdracht 3 Animation
+## Opdracht 3/4 Animation / Movement
 
-Input Movement & animation on character
+Input Movement & animation on character //*ik had perongelijk gelijk de movement gemaakt tijdens opdracht3*
 
 ![gif](./screenshots/ezgif-56da66bb93d6c5bf.gif)
