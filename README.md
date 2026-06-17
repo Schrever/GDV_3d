@@ -16,3 +16,5 @@ Input en movement van cubes
 ## Opdracht 3 Animation
 
 Input Movement & animation on character
+
+![gif](./screenshots/ezgif-56da66bb93d6c5bf.gif)
