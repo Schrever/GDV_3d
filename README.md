@@ -9,7 +9,10 @@ hier heb ik een screenshot van mijn 3d environment gemaakt in Universal Render P
 
 ## Opdracht 2 Movement Inputs
 
-gif
+Input en movement van cubes
 
 ![gif](./screenshots/ezgif-503bda499958c308.gif)
 
+## Opdracht 3 Animation
+
+Input Movement & animation on character
