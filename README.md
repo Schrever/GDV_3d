@@ -21,7 +21,7 @@ Input Movement & animation on character
 
 ## Opdracht 4 Character Controller
 
-Character controller movement and physics
+Character controller movement and physics.
 
 ![gif](./screenshots/ezgif-32fabf8e5dae5feb.gif)
 
