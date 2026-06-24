@@ -23,4 +23,4 @@ Input Movement & animation on character
 
 Character controller movement and physics
 
-![gif](.screenshots/ezgif-7a4ea840ce281621.gif)
+![gif](./screenshots/ezgif-7a4ea840ce281621.gif)
