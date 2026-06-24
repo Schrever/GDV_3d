@@ -23,7 +23,7 @@ Input Movement & animation on character
 
 Character controller movement and physics
 
-![gif](./screenshots/ezgif-7a4ea840ce281621.gif)
+![gif](./screenshots/ezgif-32fabf8e5dae5feb.gif)
 
 ## Opdracht 5 Cinemachine, follow pan tilt
 
